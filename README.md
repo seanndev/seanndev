@@ -1,4 +1,4 @@
-<!-- Trungquandev -->
+<!-- Seanndev -->
 <a href="#" target="_blank">
   <img src="svg/seanndev.svg" width="1200" alt="seanndev" />
 </a>
